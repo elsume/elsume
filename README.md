@@ -1,5 +1,10 @@
-### Hi there 👋
-
+# Portfolio Readme
+### Content
+This codespace contains projects I worked on as a freshman in college. 
+### Languages Used
+There will be projects in both Python and C++.
+### Project Complexity
+These projects involve the use of simple methods, functions, and classes.
 <!--
 **elsume/elsume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
